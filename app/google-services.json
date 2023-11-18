@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166872563356",
+    "project_id": "decodelight-ec685",
+    "storage_bucket": "decodelight-ec685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166872563356:android:4d07b38fdd875f8fccb759",
+        "android_client_info": {
+          "package_name": "com.example.decodelight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAey4SnYJHaJyOZda2c-bM6V-mwuvLsuJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
