@@ -4,4 +4,5 @@
     <dimen name="smallButtonWidth">120dp</dimen>
     <dimen name="smallButtonHeight">55dp</dimen>
     <dimen name="buttonCorners">5dp</dimen>
+    <dimen name="mediumButtonWidth">240dp</dimen>
 </resources>

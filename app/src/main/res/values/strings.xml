@@ -2,4 +2,7 @@
     <string name="app_name">DecoDelight</string>
     <string name="tv_right_adress">The Right Address\nFor Shopping\nAnyday</string>
     <string name="tv_qality_create">It is now very easy to reach the\nbest qality among the\nproducts on the store!</string>
+    <string name="register_btn">Registration</string>
+    <string name="start_btn">Start</string>
+    <string name="login_btn">Login</string>
 </resources>
