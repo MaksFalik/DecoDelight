@@ -2,7 +2,7 @@
 <resources>
 
     <style name="h4">
-        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
         <item name="android:textColor">@color/g_black</item>
         <item name="android:textSize">@dimen/h4TextSize</item>
     </style>

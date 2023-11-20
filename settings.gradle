@@ -3,8 +3,7 @@ pluginManagement {
         google()
         mavenCentral()
         gradlePluginPortal()
-        //noinspection JcenterRepositoryObsolete
-        jcenter()
+
     }
 }
 dependencyResolutionManagement {
@@ -12,6 +11,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        //noinspection JcenterRepositoryObsolete
+        jcenter()
     }
 }
 
