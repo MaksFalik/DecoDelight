@@ -10,4 +10,8 @@
     <string name="login_hint_email">Email</string>
     <string name="login_hint_password">Password</string>
     <string name="login_forgot_password">Forgot password</string>
+    <string name="register_firstname_hint">First name</string>
+    <string name="register_Lastname_hint">Last name</string>
+    <string name="register_header">Let's register</string>
+    <string name="register_header_dcr">Do yuo have an account? Login</string>
 </resources>
